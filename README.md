@@ -1,6 +1,4 @@
 <h1>antonio_vinicius</h1>
-<h3>print("coding for love") ☕</h3>
-<hr>
 <h3>About Me 🧑</h3>
 
 - B.Sc. in Information Systems (Expected Graduation: December 2022) 
@@ -20,28 +18,24 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
-<hr>
 <h3>Frameworks</h3>
 <div>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 </div>
-<hr>
 <h3>Design</h3>
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-<hr>
 <h3>Version Control</h3>
 <div>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div>
-<hr>
 <h3>Social</h3>
 <div>
   <a href="https://www.linkedin.com/in/antonvinicius/">
@@ -51,7 +45,6 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </div>
-<hr>
 <h3>Others</h3>
 <div>
   <a href="https://steamcommunity.com/id/vinibouner">
